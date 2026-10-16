@@ -1,0 +1,6 @@
+{
+  "name": "Sunrise Clinic Receptionist",
+  "description": "Real-time AI voice receptionist for Sunrise Clinic demo appointments powered by Gemini Live API.",
+  "requestFramePermissions": ["MICROPHONE"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
